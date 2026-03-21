@@ -462,6 +462,7 @@ local customEmotes = {
     {Name = "Floor Rock Freeze - Tommy Hilfiger", Id = 10214411646, Price = 0, Index = 127},
 	{Name = "Alo Yoga Pose - Lotus Position", Id = 12507097350, Price = 0, Index = 121},
     {Name = "Sturdy Dance - Ice Spice", Id = 17746270218, Price = 50, Index = 21},
+	{Name = "TWICE ABCD by Nayeon", Id = 18933761755, Price = 50, Index = 19},
 }
 
 
